@@ -1,0 +1,1 @@
+export default ['Platformer', 'Action', 'Adventure', 'RPG', 'Shooter', 'Survival', 'Roguelite']
